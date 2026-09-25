@@ -49,5 +49,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Interested-Deving-1896&theme=dark" alt="Interested-Deving-1896" /></p>
 
 ---
-
-[![Build with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/Interested-Deving-1896)
